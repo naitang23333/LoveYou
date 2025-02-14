@@ -1,0 +1,14 @@
+img.b {
+width: 5px;
+height: 5px;
+margin: 0 auto;
+display: block;
+animation:mymove1 1s infinite;
+}
+
+@keyframes mymove1
+{
+50% {
+height: 2000px;
+width: 2000px;}
+}
